@@ -4,8 +4,7 @@ Sitio web informativo para la **Barbería Alura**, una barbería moderna ubicada
 
 ## 🌐 Demo
 
-👉 **[Ver sitio en vivo](#)** *(Agregá tu link cuando esté hosteado en GitHub Pages o similar)*
-
+👉 **[Offline](#)** 
 ## 🧰 Tecnologías utilizadas
 
 - HTML5
